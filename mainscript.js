@@ -8,6 +8,7 @@ let eagle = document.getElementById("redania");
 let title1 = document.getElementById("title1");
 let title2 = document.getElementById("title2");
 let title3 = document.getElementById("title3");
+
 function otherWise() {
     if(window.matchMedia("(max-width: 600px)")) {
         unicorn.addEventListener('click',function() {
