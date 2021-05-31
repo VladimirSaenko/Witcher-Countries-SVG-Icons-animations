@@ -144,6 +144,16 @@ body {
     stroke-dashoffset: 0;
 }
 
+.container .icon.drakkar {
+    transform: translateX(-50%);
+}
+
+#title4 {
+    position: absolute;
+    bottom: 0;
+    transform: translateX(50%);
+}
+
 .container .icon.drakkar:hover path {
     animation: animate-drakkar 2s linear forwards;
 }
