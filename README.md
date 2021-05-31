@@ -1,6 +1,6 @@
 # Witcher-Countrys-SVG-Icons-animations
  
-Анимация SVG иконок Каэдвена, Редании,Нильфгаарда и Скеллиге
+Анимация SVG иконок Каэдвена, Редании, Нильфгаарда и Скеллиге
 
 ![22244124](https://user-images.githubusercontent.com/56477695/115112632-0bada080-9f8f-11eb-8039-0e0e67c59488.png)
 
