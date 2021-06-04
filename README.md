@@ -6,7 +6,7 @@
 
 Каэдвен | Kaedwen
 
-![4434](https://user-images.githubusercontent.com/56477695/115112645-1831f900-9f8f-11eb-8f3d-35889b89a956.png)
+![123123123](https://user-images.githubusercontent.com/56477695/120789452-4d43dc00-c53a-11eb-8b2d-9ec7cd7b2864.png)
 
 Редания | Redania
 
@@ -18,7 +18,7 @@
 
 Скеллиге | Skellige
 
-![2222](https://user-images.githubusercontent.com/56477695/120178808-8d415100-c212-11eb-8ffc-c0e5e6037965.png)
+![55555](https://user-images.githubusercontent.com/56477695/120789478-546aea00-c53a-11eb-865c-a7d6fd55c83b.png)
 
 Portfolio-3 {
 
