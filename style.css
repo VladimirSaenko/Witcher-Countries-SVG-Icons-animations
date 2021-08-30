@@ -21,7 +21,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
 }
 
@@ -29,6 +29,7 @@ body {
     width: 275px;
     cursor: default;
     text-align: center;
+    margin: 0px 25px;
     /* cursor: pointer; */
 }
 
@@ -147,6 +148,10 @@ body {
     transform: translateX(-50%);
 }
 
+.icon.drakkar {
+    margin: 0 125px;
+}
+
 #title4 {
     position: absolute;
     bottom: 0;
@@ -214,5 +219,18 @@ body {
         width: 100%;
         margin-top: 40px;
         flex-direction: column;
+        overflow: hidden;
+    }
+
+    .icon.drakkar {
+        margin: 55px 0px;
+    }
+
+    .container .icon {
+        width: 275px;
+        cursor: default;
+        text-align: center;
+        margin: 0px 25px;
+        /* cursor: pointer; */
     }
 }
