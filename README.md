@@ -22,11 +22,11 @@
 
 ## Туссент | Toussaint
 
-![24234](https://user-images.githubusercontent.com/56477695/149229736-76776486-b5d3-4dae-80f5-b2f415875f94.jpg)
+![1111 — копия (2)](https://user-images.githubusercontent.com/56477695/149524499-6e639345-dfe3-45dc-a0b5-053db089a6a5.png)
 
 ## Махакам | Mahakam
 
-![5535](https://user-images.githubusercontent.com/56477695/149229880-46531ebe-418f-4ba1-bddc-0eca7c24c4f5.jpg)
+![1111](https://user-images.githubusercontent.com/56477695/149524613-55a25a96-4e64-4914-9859-37b7fe694841.png)
 
 ## Керак | Kerack
 
