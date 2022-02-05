@@ -1,10 +1,10 @@
 # Witcher-Countrys-SVG-Icons-animations
 
-![img-portfolio](https://user-images.githubusercontent.com/56477695/150773754-5d23534e-dd4f-4192-a28b-10960143311e.jpg)
-
 ## Анимации SVG иконок государств мира Ведьмака: Каэдвен, Редания, Нильфгаард, Туссент, Махакам и Керак
 
-## SVG animations of the icons of the states of the Witcher world: Kaedwen, Redania, Nilfgaard, Toussaint, Mahakam and Kerak
+## SVG animations of the icons of the countrys of the Witcher world: Kaedwen, Redania, Nilfgaard, Toussaint, Mahakam and Kerak
+
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150773754-5d23534e-dd4f-4192-a28b-10960143311e.jpg)
 
 ![123123123](https://user-images.githubusercontent.com/56477695/120789452-4d43dc00-c53a-11eb-8b2d-9ec7cd7b2864.png)
 
@@ -20,7 +20,7 @@
 
 ![55555](https://user-images.githubusercontent.com/56477695/120789478-546aea00-c53a-11eb-865c-a7d6fd55c83b.png)
 
-## Скеллиге | Skellige
+## Острова Скеллиге | Skellige islands
 
 ![meme](https://user-images.githubusercontent.com/56477695/132378436-74a121bd-3f35-4f0a-903b-97ca20b721cd.jpg)
 
