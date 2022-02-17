@@ -1,8 +1,8 @@
 # Witcher-Countrys-SVG-Icons-animations
 
-## Анимации SVG иконок государств мира Ведьмака: Каэдвен, Редания, Нильфгаард, Туссент, Махакам, Керак, Цинтра и Зеррикания
+## Анимации SVG иконок государств мира Ведьмака: Каэдвен, Редания, Нильфгаард, Скеллиге, Туссент, Махакам, Керак, Цинтра и Зеррикания
 
-## SVG animations of the icons of the countrys of the Witcher world: Kaedwen, Redania, Nilfgaard, Toussaint, Mahakam, Kerack, Cintra and Zerrikania
+## SVG animations of the icons of the countrys of the Witcher world: Kaedwen, Redania, Nilfgaard, Skellige, Toussaint, Mahakam, Kerack, Cintra and Zerrikania
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150773754-5d23534e-dd4f-4192-a28b-10960143311e.jpg)
 
@@ -20,7 +20,7 @@
 
 ![55555](https://user-images.githubusercontent.com/56477695/120789478-546aea00-c53a-11eb-865c-a7d6fd55c83b.png)
 
-## Острова Скеллиге | Skellige islands
+## Скеллиге | Skellige 
 
 ![meme](https://user-images.githubusercontent.com/56477695/132378436-74a121bd-3f35-4f0a-903b-97ca20b721cd.jpg)
 
@@ -33,6 +33,14 @@
 ![1111](https://user-images.githubusercontent.com/56477695/149524613-55a25a96-4e64-4914-9859-37b7fe694841.png)
 
 ## Керак | Kerack
+
+![2022-02-17 (2)](https://user-images.githubusercontent.com/56477695/154527524-bb94d1a5-f0e9-4c4c-9749-be5bd3ef4884.png)
+
+## Цинтра | Cintra
+
+![2022-02-17 (3)](https://user-images.githubusercontent.com/56477695/154527578-526dfc2d-f146-4f78-9e0a-17937f3e3a82.png)
+
+## Зеррикания | Zerrikania
 
 ## Portfolio {
 
