@@ -1,6 +1,6 @@
 # Witcher-Countries-SVG-Icons-animations
 
-## Анимации SVG иконок государств мира Ведьмака: Каэдвен, Редания, Нильфгаард, Скеллиге, Туссент, Махакам, Керак, Цинтра, Зеррикания и Теметрия
+## Анимации SVG иконок государств мира Ведьмака: Каэдвен, Редания, Нильфгаард, Скеллиге, Туссент, Махакам, Керак, Цинтра, Зеррикания и Темерия
 
 ## SVG animations of the icons of the countrys of the Witcher world: Kaedwen, Redania, Nilfgaard, Skellige, Toussaint, Mahakam, Kerack, Cintra, Zerrikania and Temeria
 
