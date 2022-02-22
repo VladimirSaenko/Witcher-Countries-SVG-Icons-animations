@@ -1,8 +1,8 @@
 # Witcher-Countries-SVG-Icons-animations
 
-## Анимации SVG иконок государств мира Ведьмака: Каэдвен, Редания, Нильфгаард, Скеллиге, Туссент, Махакам, Керак, Цинтра и Зеррикания
+## Анимации SVG иконок государств мира Ведьмака: Каэдвен, Редания, Нильфгаард, Скеллиге, Туссент, Махакам, Керак, Цинтра, Зеррикания и Теметрия
 
-## SVG animations of the icons of the countrys of the Witcher world: Kaedwen, Redania, Nilfgaard, Skellige, Toussaint, Mahakam, Kerack, Cintra and Zerrikania
+## SVG animations of the icons of the countrys of the Witcher world: Kaedwen, Redania, Nilfgaard, Skellige, Toussaint, Mahakam, Kerack, Cintra, Zerrikania and Temeria
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150773754-5d23534e-dd4f-4192-a28b-10960143311e.jpg)
 
@@ -53,3 +53,7 @@
 ![2022-02-17 (3)](https://user-images.githubusercontent.com/56477695/154527578-526dfc2d-f146-4f78-9e0a-17937f3e3a82.png)
 
 ## Зеррикания | Zerrikania
+
+![2022-02-23](https://user-images.githubusercontent.com/56477695/155237491-f91bddfc-0ccf-43a8-8240-f0d850bdc34a.png)
+
+## Темерия | Temeria
