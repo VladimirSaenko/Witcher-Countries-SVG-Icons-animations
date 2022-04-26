@@ -60,16 +60,13 @@ body {
     0% {
         stroke-dashoffset: 0;
     }
-
     50% {
         stroke-dashoffset: 1560;
     }
-
     80% {
         stroke-dashoffset: 3120;
         fill: transparent;
     }
-
     100% {
         stroke-dashoffset: 3120;
         fill: black;
@@ -90,16 +87,13 @@ body {
     0% {
         stroke-dashoffset: 0;
     }
-
     50% {
         stroke-dashoffset: 1810;
     }
-
     80% {
         stroke-dashoffset: 3620;
         fill: transparent;
     }
-
     100% {
         stroke-dashoffset: 3620;
         fill: #e6ff05;
@@ -127,16 +121,13 @@ body {
     0% {
         stroke-dashoffset: 0;
     }
-
     50% {
         stroke-dashoffset: 250;
     }
-
     80% {
         stroke-dashoffset: 500;
         fill: transparent;
     }
-
     100% {
         stroke-dashoffset: 500;
         fill: white;
@@ -172,15 +163,12 @@ body {
     0% {
         stroke-dashoffset: 0;
     }
-
     50% {
         stroke-dashoffset: 1560;
     }
-
     80% {
         stroke-dashoffset: 2560;
     }
-
     100% {
         stroke-dashoffset: 2560;
         fill: white;
@@ -200,15 +188,12 @@ body {
     0% {
         stroke-dashoffset: 0;
     }
-
     50% {
         stroke-dashoffset: 1560;
     }
-
     80% {
         stroke-dashoffset: 2560;
     }
-
     100% {
         stroke-dashoffset: 3680;
         fill: white;
@@ -246,15 +231,12 @@ body {
     0% {
         stroke-dashoffset: 0;
     }
-
     50% {
         stroke-dashoffset: 1560;
     }
-
     80% {
         stroke-dashoffset: 2560;
     }
-
     100% {
         stroke-dashoffset: 4000;
         fill: white;
@@ -280,15 +262,12 @@ body {
     0% {
         stroke-dashoffset: 0;
     }
-
     50% {
         stroke-dashoffset: 1560;
     }
-
     80% {
         stroke-dashoffset: 2560;
     }
-
     100% {
         stroke-dashoffset: 4000;
         fill: blue;
@@ -314,15 +293,12 @@ body {
     0% {
         stroke-dashoffset: 0;
     }
-
     50% {
         stroke-dashoffset: 1560;
     }
-
     80% {
         stroke-dashoffset: 2560;
     }
-
     100% {
         stroke-dashoffset: 4000;
         fill: yellow;
@@ -349,15 +325,12 @@ body {
     0% {
         stroke-dashoffset: 0;
     }
-
     50% {
         stroke-dashoffset: 1560;
     }
-
     80% {
         stroke-dashoffset: 2560;
     }
-
     100% {
         stroke-dashoffset: 4000;
         fill: yellow;
@@ -418,15 +391,12 @@ body {
     0% {
         stroke-dashoffset: 0;
     }
-
     50% {
         stroke-dashoffset: 1560;
     }
-
     80% {
         stroke-dashoffset: 2560;
     }
-
     100% {
         stroke-dashoffset: 2560;
         fill: darkblue;
