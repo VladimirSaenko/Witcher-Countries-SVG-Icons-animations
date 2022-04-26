@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'Skelliges Vikings Language';
-    src: url(/fonts/heorot-font/HeorotExpandedItalic-e0q3.ttf);
+    src: url(fonts/heorot-font/HeorotExpandedItalic-e0q3.ttf);
 }
 
 @font-face {
     font-family: 'Gotik AOE';
-    src: url(/fonts/gotik-aoe-font/GotikAoe-VAz.ttf);
+    src: url(fonts/gotik-aoe-font/GotikAoe-VAz.ttf);
 }
 
 @font-face {
     font-family: 'Xiberonne';
-    src: url(/fonts/xiberonne-font/Xiberonne-W9wz.ttf);
+    src: url(fonts/xiberonne-font/Xiberonne-W9wz.ttf);
 }
