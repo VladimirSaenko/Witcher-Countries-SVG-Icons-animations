@@ -107,6 +107,12 @@ body {
     }
 }
 
+#title3 {
+    font-size: 45px;
+    font-family: 'Cinzel', serif;
+    font-weight: bold;
+}
+
 .container .icon.eagle path {
     stroke-dasharray: 250;
     stroke-dashoffset: 0;
@@ -155,6 +161,7 @@ body {
     position: absolute;
     bottom: 0;
     transform: translateX(50%);
+    font-family: 'Skelliges Vikings Language';
 }
 
 .container .icon.drakkar:hover path {
@@ -209,6 +216,12 @@ body {
     }
 }
 
+#title5 {
+    font-family: 'My Soul', cursive;
+    text-transform: capitalize;
+    font-size: 75px;
+}
+
 .container .icon.axes path {
     stroke-dasharray: 4000;
     stroke-dashoffset: 0;
@@ -226,6 +239,7 @@ body {
 #title6 {
     margin-top: 20px;
     color: white;
+    font-family: 'Gotik AOE';
 }
 
 @keyframes animate-axes {
@@ -328,6 +342,7 @@ body {
 #title9 {
     margin-top: 10px;
     color: white;
+    font-family: 'Gotik AOE';
 }
 
 @keyframes animate-dragon {
@@ -359,8 +374,11 @@ body {
 }
 
 #title10 {
-    margin-top: 10px;
+    margin: 10px;
+    font-size: 47px;
     color: white;
+    font-family: 'Xiberonne';
+    font-weight: lighter;
 }
 
 @keyframes animate-temeria {
@@ -378,6 +396,46 @@ body {
         fill: white;
         stroke: black;
     }
+}
+
+.container .icon.nazairRose path {
+    stroke-dasharray: 2550;
+    stroke-dashoffset: 0;
+}
+
+#title11 {
+    margin: 18px 0;
+    color: white;
+    text-transform: capitalize;
+    font-family: 'My Soul', cursive;
+}
+
+.container .icon.nazairRose:hover path {
+    animation: animate-rose 2.5s linear forwards;
+}
+
+@keyframes animate-rose {
+    0% {
+        stroke-dashoffset: 0;
+    }
+
+    50% {
+        stroke-dashoffset: 1560;
+    }
+
+    80% {
+        stroke-dashoffset: 2560;
+    }
+
+    100% {
+        stroke-dashoffset: 2560;
+        fill: darkblue;
+        stroke: white;
+    }
+}
+
+#path11960, #path11962 {
+    display: none;
 }
 
 @media screen and (min-width: 300px) and (max-width: 800px) {
