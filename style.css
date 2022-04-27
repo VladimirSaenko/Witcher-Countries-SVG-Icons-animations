@@ -152,7 +152,6 @@ body {
     position: absolute;
     bottom: 0;
     transform: translateX(50%);
-    font-family: 'Skelliges Vikings Language';
 }
 
 .container .icon.drakkar:hover path {
@@ -224,7 +223,6 @@ body {
 #title6 {
     margin-top: 20px;
     color: white;
-    font-family: 'Gotik AOE';
 }
 
 @keyframes animate-axes {
@@ -284,11 +282,6 @@ body {
     animation: animate-lion 1s linear forwards;
 }
 
-#title8 {
-    margin-top: 10px;
-    color: white;
-}
-
 @keyframes animate-lion {
     0% {
         stroke-dashoffset: 0;
@@ -315,10 +308,9 @@ body {
     animation: animate-dragon 1s linear forwards;
 }
 
-#title9 {
+#title9, #title8 {
     margin-top: 10px;
     color: white;
-    font-family: 'Gotik AOE';
 }
 
 @keyframes animate-dragon {
@@ -350,8 +342,6 @@ body {
     margin: 10px;
     font-size: 47px;
     color: white;
-    font-family: 'Xiberonne';
-    font-weight: lighter;
 }
 
 @keyframes animate-temeria {
