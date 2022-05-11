@@ -26,7 +26,7 @@
 
 ## Редания | Redania
 
-![2222342](https://user-images.githubusercontent.com/56477695/115112658-339d0400-9f8f-11eb-9e64-46b1e4c8beb1.png)
+![photo_2022-05-11_13-16-39](https://user-images.githubusercontent.com/56477695/167827436-24eaffc4-6c5d-4545-9ff9-3883a6689c43.jpg)
 
 ## Нильфгаард | Nilfgaard
 
@@ -34,7 +34,7 @@
 
 ## Скеллиге | Skellige 
 
-![meme](https://user-images.githubusercontent.com/56477695/132378436-74a121bd-3f35-4f0a-903b-97ca20b721cd.jpg)
+![photo_2022-05-11_13-16-43](https://user-images.githubusercontent.com/56477695/167827460-3457e974-faa4-47fd-aea0-a18f45f2e89d.jpg)
 
 ## Туссент | Toussaint
 
