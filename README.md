@@ -64,4 +64,4 @@
 
 ![photo_2022-05-08_17-23-20](https://user-images.githubusercontent.com/56477695/167300750-cc68a244-8be5-40c4-a47f-30f71e4c5d7b.jpg)
 
-## Дол Блатанна | Dol Blathanna
+## Дол Блатанна / Эльфы | Dol Blathanna / Elves
