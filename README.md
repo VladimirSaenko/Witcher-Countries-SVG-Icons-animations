@@ -65,3 +65,7 @@
 ![photo_2022-05-08_17-23-20](https://user-images.githubusercontent.com/56477695/167300750-cc68a244-8be5-40c4-a47f-30f71e4c5d7b.jpg)
 
 ## Дол Блатанна / Эльфы | Dol Blathanna / Elves
+
+![photo_2022-11-07_14-47-07](https://user-images.githubusercontent.com/56477695/200314238-51de5681-c23a-4e2d-8679-d5178537c387.jpg)
+
+## Ковир и Повисс/ Kovir and Poviss
