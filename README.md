@@ -62,7 +62,7 @@
 
 ## Назаир | Nazair
 
-![photo_2022-05-08_17-23-20](https://user-images.githubusercontent.com/56477695/167300750-cc68a244-8be5-40c4-a47f-30f71e4c5d7b.jpg)
+![2022-11-07](https://user-images.githubusercontent.com/56477695/200316033-9038aa2e-98a1-4e9a-bb81-12262cf57d4a.png)
 
 ## Дол Блатанна / Эльфы | Dol Blathanna / Elves
 
