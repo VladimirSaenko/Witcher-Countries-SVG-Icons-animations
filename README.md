@@ -58,14 +58,18 @@
 
 ## Темерия | Temeria
 
-![photo_2022-04-27_12-37-29](https://user-images.githubusercontent.com/56477695/165489780-a53458b2-45da-4042-aefa-122d64e7d33d.jpg)
+![2022-11-07](https://user-images.githubusercontent.com/56477695/200316033-9038aa2e-98a1-4e9a-bb81-12262cf57d4a.png)
 
 ## Назаир | Nazair
 
-![2022-11-07](https://user-images.githubusercontent.com/56477695/200316033-9038aa2e-98a1-4e9a-bb81-12262cf57d4a.png)
+![2022-11-11](https://user-images.githubusercontent.com/56477695/201286882-6b1cd9c4-5d76-4d17-bb17-7e91448ad98d.png)
 
 ## Дол Блатанна / Эльфы | Dol Blathanna / Elves
 
 ![photo_2022-11-07_14-47-07](https://user-images.githubusercontent.com/56477695/200314238-51de5681-c23a-4e2d-8679-d5178537c387.jpg)
 
 ## Ковир и Повисс/ Kovir and Poviss
+
+![photo_2022-11-11_09-00-40](https://user-images.githubusercontent.com/56477695/201284093-14525cd8-0e19-46b2-b9dd-83e7e0251bdf.jpg)
+
+## Saskia's Free State
